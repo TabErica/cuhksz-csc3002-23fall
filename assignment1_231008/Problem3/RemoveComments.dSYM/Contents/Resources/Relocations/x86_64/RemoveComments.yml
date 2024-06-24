@@ -1,0 +1,15 @@
+---
+triple:          'x86_64-apple-darwin'
+binary-path:     "/Users/ericameng/Desktop/学习/term7/3002/assignment1_231008/Problem3/RemoveComments"
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: __Z14removeCommentsRNSt3__113basic_istreamIcNS_11char_traitsIcEEEERNS_13basic_ostreamIcS2_EE, symObjAddr: 0x0, symBinAddr: 0x100003C80, symSize: 0x1B0 }
+  - { offsetInCU: 0x6D6C, offset: 0x6D6C, size: 0x8, addend: 0x0, symName: __Z14removeCommentsRNSt3__113basic_istreamIcNS_11char_traitsIcEEEERNS_13basic_ostreamIcS2_EE, symObjAddr: 0x0, symBinAddr: 0x100003C80, symSize: 0x1B0 }
+  - { offsetInCU: 0x6F19, offset: 0x6F19, size: 0x8, addend: 0x0, symName: __ZNSt3__113basic_istreamIcNS_11char_traitsIcEEE3getB7v160006ERc, symObjAddr: 0x1B0, symBinAddr: 0x100003E30, symSize: 0x60 }
+  - { offsetInCU: 0x6F59, offset: 0x6F59, size: 0x8, addend: 0x0, symName: __ZNKSt3__19basic_iosIcNS_11char_traitsIcEEEcvPvB7v160006Ev, symObjAddr: 0x210, symBinAddr: 0x100003E90, symSize: 0x50 }
+  - { offsetInCU: 0x6F7D, offset: 0x6F7D, size: 0x8, addend: 0x0, symName: __Z18TestRemoveCommentsv, symObjAddr: 0x260, symBinAddr: 0x100003EE0, symSize: 0x20 }
+  - { offsetInCU: 0x6F96, offset: 0x6F96, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x280, symBinAddr: 0x100003F00, symSize: 0x30 }
+  - { offsetInCU: 0x6FCC, offset: 0x6FCC, size: 0x8, addend: 0x0, symName: __ZNSt3__111char_traitsIcE3eofEv, symObjAddr: 0x2B0, symBinAddr: 0x100003F30, symSize: 0x10 }
+  - { offsetInCU: 0x6FDF, offset: 0x6FDF, size: 0x8, addend: 0x0, symName: __ZNSt3__111char_traitsIcE12to_char_typeEi, symObjAddr: 0x2C0, symBinAddr: 0x100003F40, symSize: 0x10 }
+  - { offsetInCU: 0x7001, offset: 0x7001, size: 0x8, addend: 0x0, symName: __ZNKSt3__19basic_iosIcNS_11char_traitsIcEEE4failB7v160006Ev, symObjAddr: 0x2D0, symBinAddr: 0x100003F50, symSize: 0x20 }
+  - { offsetInCU: 0x7025, offset: 0x7025, size: 0x8, addend: 0x0, symName: __ZNKSt3__18ios_base4failB7v160006Ev, symObjAddr: 0x2F0, symBinAddr: 0x100003F70, symSize: 0x1F }
+...
